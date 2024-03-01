@@ -1,4 +1,4 @@
-package Maths;
+package MathQuiz;
 
 enum Color {
     RED, BLUE

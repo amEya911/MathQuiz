@@ -1,4 +1,4 @@
-package Maths;
+package MathQuiz;
 
 public class Questions {
    
