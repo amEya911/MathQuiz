@@ -1,6 +1,6 @@
 public class Option {
-    private int option;
-    private Boolean isAnswer;
+    private final int option;
+    private final Boolean isAnswer;
 
     public Option(int option, Boolean isAnswer) {
         this.option = option;
